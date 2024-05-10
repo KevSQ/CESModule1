@@ -82,4 +82,3 @@ int calculateTextSize(String text) {
   }
   return textSize;
 }
-
