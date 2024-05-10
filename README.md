@@ -12,8 +12,8 @@ but it can be modified to run on any microcontroller that can be flashed with th
 
 To get this installation up and running to a device near you, you should first begin by cloning this repository by
 clicking on "Code" and then "Download ZIP" to get the files.
-![alt-text](https://docs.github.com/assets/cb-14601/mw-1440/images/help/repository/code-button.webp) "Code Button")
-![alt-text](https://docs.github.com/assets/cb-69468/mw-1440/images/help/repository/https-url-clone-cli.webp) "Download
+![alt-text](https://docs.github.com/assets/cb-14601/mw-1440/images/help/repository/code-button.webp "Code Button")
+![alt-text](https://docs.github.com/assets/cb-69468/mw-1440/images/help/repository/https-url-clone-cli.webp "Download
 ZIP")
 
 Once you have the files, you should open it in your favorite IDE of choice that supports C++. I recommend using
